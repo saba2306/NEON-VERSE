@@ -67,3 +67,9 @@ select {
 html, body {
   background-color: #0b0f1a !important;
 }
+
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #7c3aed;
+}
